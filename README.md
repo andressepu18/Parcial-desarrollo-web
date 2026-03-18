@@ -15,8 +15,6 @@ Asegúrate de tener instalado:
 
 ## Instalación
 
-## Instalación
-
 1. Clona o descarga el repositorio en tu máquina local
 2. Abre una terminal en la carpeta principal del proyecto (`carros/`) e instala las dependencias:
 
