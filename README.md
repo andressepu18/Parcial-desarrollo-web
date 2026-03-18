@@ -118,14 +118,4 @@ Los usuarios se autentican con JWT. Al hacer login, recibirán un token válido 
 
 ---
 
-## Documentación Adicional
-
-Revisa los siguientes archivos para más detalles:
-
-- **EJEMPLOS_PETICIONES.md** - Ejemplos prácticos de cómo usar la API
-- **CAMBIOS_REALIZADOS.md** - Explicación de la estructura del código
-- **RESUMEN_FINAL.md** - Resumen de las funcionalidades implementadas
-
----
-
 ## Autor Andrés Gómez Sepulveda
