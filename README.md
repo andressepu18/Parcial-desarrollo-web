@@ -53,7 +53,7 @@ Servidor iniciado en puerto 1702
 ## Estructura del Proyecto
 
 ```
-carros/
+Parcial dw wa/
 ├── models/           # Esquemas de la base de datos
 │   ├── usuarios.js
 │   └── productos.js
@@ -128,4 +128,4 @@ Revisa los siguientes archivos para más detalles:
 
 ---
 
-## Autor
+## Autor Andrés Gómez Sepulveda
